@@ -1,8 +1,8 @@
 [
-  "https://raw.githubusercontent.com/denariigames/mmokitce-addons/refs/heads/master/AddonPackager/dist/package.json",
-  "https://raw.githubusercontent.com/denariigames/mmokitce-addons/refs/heads/master/AnimatorCharacterModel/dist/package.json",
-  "https://raw.githubusercontent.com/denariigames/mmokitce-addons/refs/heads/master/CashShop/dist/package.json",
-  "https://raw.githubusercontent.com/denariigames/mmokitce-addons/refs/heads/master/DestroyableEntity/dist/package.json",
-  "https://raw.githubusercontent.com/denariigames/mmokitce-addons/refs/heads/master/TinyEpicCharacters/dist/package.json",
-  "https://raw.githubusercontent.com/denariigames/mmokitce-addons/refs/heads/master/Tutorial/dist/package.json"
+  "https://raw.githubusercontent.com/open-mmorpg/open-mmorpg-addons/refs/heads/master/AddonPackager/dist/package.json",
+  "https://raw.githubusercontent.com/open-mmorpg/open-mmorpg-addons/refs/heads/master/AnimatorCharacterModel/dist/package.json",
+  "https://raw.githubusercontent.com/open-mmorpg/open-mmorpg-addons/refs/heads/master/CashShop/dist/package.json",
+  "https://raw.githubusercontent.com/open-mmorpg/open-mmorpg-addons/refs/heads/master/DestroyableEntity/dist/package.json",
+  "https://raw.githubusercontent.com/open-mmorpg/open-mmorpg-addons/refs/heads/master/TinyEpicCharacters/dist/package.json",
+  "https://raw.githubusercontent.com/open-mmorpg/open-mmorpg-addons/refs/heads/master/Tutorial/dist/package.json"
 ]
